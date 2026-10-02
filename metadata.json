@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสถิติอนุมัติสั่งจ่ายบำเหน็จบำนาญฯ",
+  "description": "ระบบสถิติอนุมัติสั่งจ่ายบำเหน็จบำนาญฯ สำนักงานคลังเขต 7 ปีงบประมาณ 2570 เชื่อมโยง Google Sheets พร้อมระบบสรุปยอดรายเดือนแบบอัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
